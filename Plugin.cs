@@ -11,7 +11,7 @@ using System;
 [BepInPlugin("com.proxy.gunsawrpc", "Gunsaw RPC", "0.0.1")]
 public class Plugin : BaseUnityPlugin
 {
-    private const string AppId = "ur not getting it";
+    private const string AppId = "1564169576902697011";
     private const string Version = "0.0.1";
 
     private Thread thread;
