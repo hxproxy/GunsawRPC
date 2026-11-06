@@ -1,4 +1,5 @@
 # Gunsaw RPC
+![license-badge](https://img.shields.io/badge/LICENSE-AGPL--3.0-green?style=flat-square)<br>
 A [BepInEx](https://github.com/BepInEx/BepInEx) plugin for [Gunsaw](https://orsonik.itch.io/gunsaw-demo) that adds a Discord RPC since it doesn't have one for some fucking reason.<br>
 ### Example:
 <img src="https://raw.githubusercontent.com/hxproxy/GunsawRPC/refs/heads/main/example.png" alt="example">
